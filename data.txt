@@ -1,0 +1,1 @@
+Message received: b'{"acceleration":{"x":-0.5418,"y":-0.7003,"z":0.4214},"gyroscope":{"x":-0.0008,"y":0.0007,"z":0.0008},"orientation":{"roll":301.0107,"pitch":33.4193,"yaw":126.3994},"compass":126}'
